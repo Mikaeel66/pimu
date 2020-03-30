@@ -15,7 +15,7 @@
 (rf/reg-sub
  ::val
  (fn [db]
-   (str "arvo on --> " (:val db))))
+   (str "on --> " (:val db))))
 
 
 ;; -------------------------
